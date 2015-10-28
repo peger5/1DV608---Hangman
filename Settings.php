@@ -25,7 +25,7 @@ class Settings {
 	/**
 	 * Password of SQL database
 	 */
-	const PASSWORD = "1234qwer";
+	const PASSWORD = "";
 	
 	/**
 	* SQL database name
